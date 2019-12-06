@@ -17,7 +17,6 @@ namespace JaggedArray
                 }
                 Console.WriteLine();
             }
-
             Console.ReadLine();
         }
     }
